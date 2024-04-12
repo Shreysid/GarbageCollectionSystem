@@ -1,7 +1,8 @@
 
 
-## Usage
+<img width="674" alt="Screenshot 2024-04-12 at 2 22 52 PM" src="https://github.com/Shreysid/GarbageCollectionSystem/assets/85363057/204cb4f1-67a8-4d02-8266-b31f9d96202f">
 
+## Usage
 ```
 change config.env file in config folder
 ```
